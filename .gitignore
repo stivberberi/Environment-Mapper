@@ -1,3 +1,9 @@
+Listings/
+Objects/
+RTE/
+
+*.uv*
+*.scvd
 # Prerequisites
 *.d
 
